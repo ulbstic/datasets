@@ -3,7 +3,7 @@ Repo avec la liste des datasets auxquels nous avons accès.
 
 
 | Nom        | Langue           | Description  | Taille | Format | Partageable ?| Qui |
-| ------------- |:-------------:| -----:| | | | |
+
 | European Commission Archives      | FR-EN-NL-DK-IT-etc | Archives | 160 Go | PDF | STIC only | Simon
 | AMSAB      | NL | Journaux | 173 Go | .xml, .txt, .pdf | Non | Simon
 | Wikipedia-FR      | FR | Tout | 4.4 Go | .txt | tout le monde | Simon
